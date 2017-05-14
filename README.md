@@ -1,2 +1,2 @@
-# apps2015
-Some of the apps I made and published it
+# iOS Applications
+These are the iOS application I made using Swift over the 2015 summer. Feel free to check it out.
